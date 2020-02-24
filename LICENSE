@@ -1,0 +1,674 @@
+ Gnu general public license
+                       version 3, 29 june 2007
+
+ copyright (c) 2007 free software foundation, inc. <https://fsf.org/>
+ everyone be permitted to copy an' distribute verbatim copies
+ o' this here license document, but changin' it be not allowed.
+ 
+                            preamble
+
+  the gnu general public license be a free, copyleft license fer
+software an' other kinds o' works.
+ 
+  the licenses fer most software an' other practical works be designed
+to take away yer freedom to share an' change the works. By contrast,
+the gnu general public license be intended to guarantee yer freedom to
+share an' change all versions o' a program--to make sure it remains free
+software fer all its users. We, the free software foundation, use the
+gnu general public license fer most o' our software; it applies also to
+any other work released this here way by its authors. Ye can apply it to
+yer programs, too.
+ 
+  when we speak o' free software, we be referrin' to freedom, not
+price. Our general public licenses be designed to make sure that there ye
+'ave the freedom to distribute copies o' free software (and charge fer
+them if ye wish), that there ye receive source code or can get it if ye
+want it, that there ye can change the software or use pieces o' it in new
+free programs, an' that there ye know ye can do these things.
+ 
+  to protect yer rights, we need to prevent others from denyin' ye
+these rights or askin' ye to surrender the rights. Therefore, ye 'ave
+certain responsibilities if ye distribute copies o' the software, or if
+ye modify it: responsibilities to respect the freedom o' others.
+ 
+  fer example, if ye distribute copies o' such a program, whether
+gratis or fer a fee, ye must pass on to the recipients the same
+freedoms that there ye received. Ye must make sure that there they, too, receive
+or can get the source code. An' ye must show them these terms so they
+know their rights.
+ 
+  developers that there use the gnu gpl protect yer rights with two steps:
+(1) assert copyright on the software, an' (2) offer ye this here license
+givin' ye legal permission to copy, distribute an'/or modify it.
+ 
+  fer the developers' an' authors' protection, the gpl clearly explains
+that there there be no warranty fer this here free software. Fer both users' an'
+authors' sake, the gpl requires that there modified versions be marked as
+changed, so that there their problems will not be attributed erroneously to
+authors o' previous versions.
+ 
+  some devices be designed to deny users access to install or run
+modified versions o' the software inside them, although the manufacturer
+can do so. This here be fundamentally incompatible with the aim o'
+protectin' users' freedom to change the software. The systematic
+pattern o' such abuse occurs in the area o' products fer individuals to
+use, which be precisely where it be most unacceptable. Therefore, we
+'ave designed this here version o' the gpl to prohibit the practice fer them
+products. If such problems arise substantially in other domains, we
+stand ready to extend this here provision to them domains in future versions
+o' the gpl, as needed to protect the freedom o' users.
+ 
+  finally, every program be threatened constantly by software patents.
+ states should not allow patents to restrict development an' use o'
+software on general-purpose computers, but in them that there do, we wish to
+avoid the special danger that there patents applied to a free program could
+make it effectively proprietary. To prevent this here, the gpl assures that there
+patents cannot be used to render the program non-free.
+ 
+  the precise terms an' conditions fer copying, distribution an'
+modification follow.
+ 
+                       terms an' conditions
+
+  0. Definitions.
+ 
+  "this license" refers to version 3 o' the gnu general public license.
+ 
+  "copyright" also means copyright-like laws that there apply to other kinds o'
+works, such as semiconductor masks.
+ 
+  "the program" refers to any copyrightable work licensed under this here
+license. Each licensee be addressed as "you". "licensees" an'
+"recipients" may be individuals or organizations.
+ 
+  to "modify" a work means to copy from or adapt all or part o' the work
+in a fashion requirin' copyright permission, other than the makin' o' an
+exact copy. The resultin' work be called a "modified version" o' the
+earlier work or a work "based on" the earlier work.
+ 
+  a "covered work" means either the unmodified program or a work based
+on the program.
+ 
+  to "propagate" a work means to do anythin' with it that there, without
+permission, would make ye directly or secondarily liable fer
+infringement under applicable copyright law, except executin' it on a
+computer or modifyin' a private copy. Propagation includes copying,
+distribution (with or without modification), makin' available to the
+public, an' in some countries other activities as well.
+ 
+  to "convey" a work means any kind o' propagation that there enables other
+parties to make or receive copies. Mere interaction with a user through
+a computer network, with no transfer o' a copy, be not conveyin'.
+ 
+  an interactive user interface displays "appropriate legal notices"
+to the extent that there it includes a convenient an' prominently visible
+feature that there (1) displays an appropriate copyright notice, an' (2)
+tells the user that there there be no warranty fer the work (except to the
+extent that there warranties be provided), that there licensees may convey the
+work under this here license, an' 'ow to view a copy o' this here license. If
+the interface presents a list o' user commands or options, such as a
+menu, a prominent item in the list meets this here criterion.
+ 
+  1. Source code.
+ 
+  the "source code" fer a work means the preferred form o' the work
+fer makin' modifications to it. "object code" means any non-source
+form o' a work.
+ 
+  a "standard interface" means an interface that there either be an official
+standard defined by a recognized standards body, or, in the case o'
+interfaces specified fer a particularrr programmin' language, one that there
+be widely used among developers workin' in that there language.
+ 
+  the "system libraries" o' an executable work include anything, other
+than the work as a 'ole, that there (a) be included in the normal form o'
+packagin' a major component, but which be not part o' that there major
+component, an' (b) serves only to enable use o' the work with that there
+major component, or to implement a standard interface fer which an
+implementation be available to the public in source code form. A
+"major component", in this here context, means a major essential component
+(kernel, window system, an' so on) o' the specific operatin' system
+(if any) on which the executable work runs, or a compiler used to
+produce the work, or an object code interpreter used to run it.
+ 
+  the "correspondin' source" fer a work in object code form means all
+the source code needed to generate, install, an' (for an executable
+work) run the object code an' to modify the work, includin' scripts to
+control them activities. 'owever, it does not include the work's
+system libraries, or general-purpose tools or generally available free
+programs which be used unmodified in performin' them activities but
+which ain't part o' the work. Fer example, correspondin' source
+includes interface definition files associated with source files fer
+the work, an' the source code fer shared libraries an' dynamically
+linked subprograms that there the work be specifically designed to require,
+such as by intimate data communication or control flow between them
+subprograms an' other parts o' the work.
+ 
+  the correspondin' source need not include anythin' that there users
+can regenerate automatically from other parts o' the correspondin'
+source.
+ 
+  the correspondin' source fer a work in source code form be that there
+same work.
+ 
+  2. Basic permissions.
+ 
+  all rights granted under this here license be granted fer the term o'
+copyright on the program, an' be irrevocable provided the stated
+conditions be met. This here license explicitly affirms yer unlimited
+permission to run the unmodified program. The output from runnin' a
+covered work be covered by this here license only if the output, given its
+content, constitutes a covered work. This here license acknowledges yer
+rights o' fair use or other equivalent, as provided by copyright law.
+ 
+  ye may make, run an' propagate covered works that there ye do not
+convey, without conditions so long as yer license otherwise remains
+in force. Ye may convey covered works to others fer the sole purpose
+o' 'avin' them make modifications exclusively fer ye, or provide ye
+with facilities fer runnin' them works, provided that there ye comply with
+the terms o' this here license in conveyin' all arr, material fer which ye do
+not control copyright. Them thus makin' or runnin' the covered works
+fer ye must do so exclusively on yer behalf, under yer direction
+an' control, on terms that there prohibit them from makin' any copies o'
+yer copyrighted arr, material outside their relationship with ye.
+ 
+  conveyin' under any other circumstances be permitted solely under
+the conditions stated below. Sublicensin' be not allowed; section 10
+makes it unnecessary.
+ 
+  3. Protectin' users' legal rights from anti-circumvention law.
+ 
+  no covered work shall be deemed part o' an effective technological
+measure under any applicable law fulfillin' obligations under article
+11 o' the wipo copyright treaty adopted on 20 december 1996, or
+similarrr laws prohibitin' or restrictin' circumvention o' such
+measures.
+ 
+  when ye convey a covered work, ye waive any legal power to forbid
+circumvention o' technological measures to the extent such circumvention
+be effected by exercisin' rights under this here license with respect to
+the covered work, an' ye disclaim any intention to limit operation or
+modification o' the work as a means o' enforcing, against the work's
+users, yer or third parties' legal rights to forbid circumvention o'
+technological measures.
+ 
+  4. Conveyin' verbatim copies.
+ 
+  ye may convey verbatim copies o' the program's source code as ye
+receive it, in any medium, provided that there ye conspicuously an'
+appropriately publish on each copy an appropriate copyright notice;
+keep intact all notices statin' that there this here license an' any
+non-permissive terms added in accord with section 7 apply to the code;
+keep intact all notices o' the absence o' any warranty; an' give all
+recipients a copy o' this here license along with the program.
+ 
+  ye may charge any price or no price fer each copy that there ye convey,
+an' ye may offer support or warranty protection fer a fee.
+ 
+  5. Conveyin' modified source versions.
+ 
+  ye may convey a work based on the program, or the modifications to
+produce it from the program, in the form o' source code under the
+terms o' section 4, provided that there ye also meet all o' these conditions:
+
+    a) the work must carry prominent notices statin' that there ye modified
+    it, an' givin' a relevant date.
+ 
+    b) the work must carry prominent notices statin' that there it be
+    released under this here license an' any conditions added under section
+    7. This here requirement modifies the requirement in section 4 to
+    "keep intact all notices".
+ 
+    c) ye must license the entire work, as a 'ole, under this here
+    license to anyone who comes into possession o' a copy. This here
+    license will therefore apply, along with any applicable section 7
+    additional terms, to the 'ole o' the work, an' all its parts,
+    regardless o' 'ow they be packaged. This here license gives no
+    permission to license the work in any other way, but it does not
+    invalidate such permission if ye 'ave separately received it.
+ 
+    d) if the work 'as interactive user interfaces, each must display
+    appropriate legal notices; 'owever, if the program 'as interactive
+    interfaces that there do not display appropriate legal notices, yer
+    work need not make them do so.
+ 
+  a compilation o' a covered work with other separate an' independent
+works, which ain't by their nature extensions o' the covered work,
+an' which ain't combined with it such as to form a larger program,
+in or on a volume o' a storage or distribution medium, be called an
+"aggregate" if the compilation an' its resultin' copyright ain't
+used to limit the access or legal rights o' the compilation's users
+beyond what the individual works permit. Inclusion o' a covered work
+in an aggregate does not cause this here license to apply to the other
+parts o' the aggregate.
+ 
+  6. Conveyin' non-source forms.
+ 
+  ye may convey a covered work in object code form under the terms
+o' sections 4 an' 5, provided that there ye also convey the
+machine-readable correspondin' source under the terms o' this here license,
+in one o' these ways:
+
+    a) convey the object code in, or embodied in, a physical product
+    (includin' a physical distribution medium), accompanied by the
+    correspondin' source fixed on a durable physical medium
+    customarily used fer software interchange.
+ 
+    b) convey the object code in, or embodied in, a physical product
+    (includin' a physical distribution medium), accompanied by a
+    written offer, valid fer at least three years an' valid fer as
+    long as ye offer spare parts or customer support fer that there product
+    model, to give anyone who possesses the object code either (1) a
+    copy o' the correspondin' source fer all the software in the
+    product that there be covered by this here license, on a durable physical
+    medium customarily used fer software interchange, fer a price no
+    more than yer reasonable cost o' physically performin' this here
+    conveyin' o' source, or (2) access to copy the
+    correspondin' source from a network server at no charge.
+ 
+    c) convey individual copies o' the object code with a copy o' the
+    written offer to provide the correspondin' source. This here
+    alternative be allowed only occasionally an' noncommercially, an'
+    only if ye received the object code with such an offer, in accord
+    with subsection 6b.
+ 
+    d) convey the object code by offerin' access from a designated
+    place (gratis or fer a charge), an' offer equivalent access to the
+    correspondin' source in the same way through the same place at no
+    further charge. Ye need not require recipients to copy the
+    correspondin' source along with the object code. If the place to
+    copy the object code be a network server, the correspondin' source
+    may be on a different server (operated by ye or a third party)
+    that there supports equivalent copyin' facilities, provided ye maintain
+    clearrr directions next to the object code sayin' where to find the
+    correspondin' source. Regardless o' what server 'osts the
+    correspondin' source, ye remain obligated to ensure that there it be
+    available fer as long as needed to satisfy these requirements.
+ 
+    e) convey the object code usin' peer-to-peer transmission, provided
+    ye inform other peers where the object code an' correspondin'
+    source o' the work be bein' offered to the general public at no
+    charge under subsection 6d.
+ 
+  a separable portion o' the object code, whose source code be excluded
+from the correspondin' source as a system library, need not be
+included in conveyin' the object code work.
+ 
+  a "user product" be either (1) a "consumer product", which means any
+tangible personal property which be normally used fer personal, family,
+or 'ousehold purposes, or (2) anythin' designed or sold fer incorporation
+into a dwellin'. In determinin' whether a product be a consumer product,
+doubtful cases shall be resolved in favor o' coverage. Fer a particularrr
+product received by a particularrr user, "normally used" refers to a
+typical or common use o' that there class o' product, regardless o' the status
+o' the particularrr user or o' the way in which the particularrr user
+actually uses, or expects or be expected to use, the product. A product
+be a consumer product regardless o' whether the product 'as substantial
+commercial, industrial or non-consumer uses, unless such uses represent
+the only significant mode o' use o' the product.
+ 
+  "installation information" fer a user product means any methods,
+procedures, authorization keys, or other information required to install
+an' execute modified versions o' a covered work in that there user product from
+a modified version o' its correspondin' source. The information must
+suffice to ensure that there the continued functionin' o' the modified object
+code be in no case prevented or interfered with solely because
+modification been made.
+ 
+  if ye convey an object code work under this here section in, or with, or
+specifically fer use in, a user product, an' the conveyin' occurs as
+part o' a transaction in which starboard o' possession an' use o' the
+user product be transferred to the recipient in perpetuity or fer a
+fixed term (regardless o' 'ow the transaction be characterized), the
+correspondin' source conveyed under this here section must be accompanied
+by the installation information. But this here requirement does not apply
+if neither ye nor any third party retains the ability to install
+modified object code on the user product (for example, the work 'as
+been installed in rom).
+ 
+  the requirement to provide installation information does not include a
+requirement to continue to provide support service, warranty, or updates
+fer a work that there been modified or installed by the recipient, or fer
+the user product in which it been modified or installed. Access to a
+network may be denied when the modification itself arr, materially an'
+adversely affects the operation o' the network or violates the rules an'
+protocols fer communication across the network.
+ 
+  correspondin' source conveyed, an' installation information provided,
+in accord with this here section must be in a format that there be publicly
+documented (and with an implementation available to the public in
+source code form), an' must require no special password or key fer
+unpacking, readin' or copyin'.
+ 
+  7. Additional terms.
+ 
+  "additional permissions" be terms that there supplement the terms o' this here
+license by makin' exceptions from one or more o' its conditions.
+ additional permissions that there be applicable to the entire program shall
+be treated as though they was included in this here license, to the extent
+that there they be valid under applicable law. If additional permissions
+apply only to part o' the program, that there part may be used separately
+under them permissions, but the entire program remains governed by
+this here license without regard to the additional permissions.
+ 
+  when ye convey a copy o' a covered work, ye may at yer option
+remove any additional permissions from that there copy, or from any part o'
+it. (additional permissions may be written to require their own
+removal in certain cases when ye modify the work.)  ye may place
+additional permissions on arr, material, added by ye to a covered work,
+fer which ye 'ave or can give appropriate copyright permission.
+ 
+  notwithstandin' any other provision o' this here license, fer arr, material ye
+add to a covered work, ye may (if authorized by the copyright 'olders o'
+that there arr, material) supplement the terms o' this here license with terms:
+
+    a) disclaimin' warranty or limitin' liability differently from the
+    terms o' sections 15 an' 16 o' this here license; or
+
+    b) requirin' preservation o' specified reasonable legal notices or
+    author attributions in that there arr, material or in the appropriate legal
+    notices displayed by works containin' it; or
+
+    c) prohibitin' misrepresentation o' the origin o' that there arr, material, or
+    requirin' that there modified versions o' such arr, material be marked in
+    reasonable ways as different from the original version; or
+
+    d) limitin' the use fer publicity purposes o' names o' licensors or
+    authors o' the arr, material; or
+
+    e) declinin' to grant rights under trademark law fer use o' some
+    trade names, trademarks, or service marks; or
+
+    f) requirin' indemnification o' licensors an' authors o' that there
+    arr, material by anyone who conveys the arr, material (or modified versions o'
+    it) with contractual assumptions o' liability to the recipient, fer
+    any liability that there these contractual assumptions directly impose on
+    them licensors an' authors.
+ 
+  all other non-permissive additional terms be considered "further
+restrictions" within the meanin' o' section 10. If the program as ye
+received it, or any part o' it, contains a notice statin' that there it be
+governed by this here license along with a term that there be a further
+restriction, ye may remove that there term. If a license document contains
+a further restriction but permits relicensin' or conveyin' under this here
+license, ye may add to a covered work arr, material governed by the terms
+o' that there license document, provided that there the further restriction does
+not survive such relicensin' or conveyin'.
+ 
+  if ye add terms to a covered work in accord with this here section, ye
+must place, in the relevant source files, a statement o' the
+additional terms that there apply to them files, or a notice indicatin'
+where to find the applicable terms.
+ 
+  additional terms, permissive or non-permissive, may be stated in the
+form o' a separately written license, or stated as exceptions;
+the above requirements apply either way.
+ 
+  8. Termination.
+ 
+  ye may not propagate or modify a covered work except as expressly
+provided under this here license. Any attempt otherwise to propagate or
+modify it be void, an' will automatically terminate yer rights under
+this here license (includin' any patent licenses granted under the third
+paragraph o' section 11).
+ 
+  'owever, if ye avast all violation o' this here license, then yer
+license from a particularrr copyright 'older be reinstated (a)
+provisionally, unless an' until the copyright 'older explicitly an'
+finally terminates yer license, an' (b) permanently, if the copyright
+'older fails to notify ye o' the violation by some reasonable means
+prior to 60 days after the cessation.
+ 
+  moreover, yer license from a particularrr copyright 'older be
+reinstated permanently if the copyright 'older notifies ye o' the
+violation by some reasonable means, this here be the first time ye 'ave
+received notice o' violation o' this here license (for any work) from that there
+copyright 'older, an' ye cure the violation prior to 30 days after
+yer receipt o' the notice.
+ 
+  termination o' yer rights under this here section does not terminate the
+licenses o' parties who 'ave received copies or rights from ye under
+this here license. If yer rights 'ave been terminated an' not permanently
+reinstated, ye do not qualify to receive new licenses fer the same
+arr, material under section 10.
+ 
+  9. Acceptance not required fer 'avin' copies.
+ 
+  ye ain't required to accept this here license in order to receive or
+run a copy o' the program. Ancillary propagation o' a covered work
+occurrin' solely as a consequence o' usin' peer-to-peer transmission
+to receive a copy likewise does not require acceptance. 'owever,
+nothin' other than this here license grants ye permission to propagate or
+modify any covered work. These actions infringe copyright if ye do
+not accept this here license. Therefore, by modifyin' or propagatin' a
+covered work, ye indicate yer acceptance o' this here license to do so.
+ 
+  10. Automatic licensin' o' downstream recipients.
+ 
+  each time ye convey a covered work, the recipient automatically
+receives a license from the original licensors, to run, modify an'
+propagate that there work, subject to this here license. Ye ain't responsible
+fer enforcin' compliance by third parties with this here license.
+ 
+  an "entity transaction" be a transaction transferrin' control o' an
+organization, or substantially all assets o' one, or subdividin' an
+organization, or mergin' organizations. If propagation o' a covered
+work results from an entity transaction, each party to that there
+transaction who receives a copy o' the work also receives whatever
+licenses to the work the party's predecessor in interest 'ad or could
+give under the previous paragraph, plus a right to possession o' the
+correspondin' source o' the work from the predecessor in interest, if
+the predecessor 'as it or can get it with reasonable efforts.
+ 
+  ye may not impose any further restrictions on the exercise o' the
+rights granted or affirmed under this here license. Fer example, ye may
+not impose a license fee, royalty, or other charge fer exercise o'
+rights granted under this here license, an' ye may not initiate litigation
+(includin' a cross-claim or counterclaim in a lawsuit) allegin' that there
+any patent claim be infringed by making, using, selling, offerin' fer
+sale, or importin' the program or any portion o' it.
+ 
+  11. Patents.
+ 
+  a "contributor" be a copyright 'older who authorizes use under this here
+license o' the program or a work on which the program be based. The
+work thus licensed be called the contributor's "contributor version".
+ 
+  a contributor's "essential patent claims" be all patent claims
+owned or controlled by the contributor, whether already acquired or
+'ereafter acquired, that there would be infringed by some manner, permitted
+by this here license, o' making, using, or sellin' its contributor version,
+but do not include claims that there would be infringed only as a
+consequence o' further modification o' the contributor version. Fer
+purposes o' this here definition, "control" includes starboard to grant
+patent sublicenses in a manner consistent with the requirements o'
+this here license.
+ 
+  each contributor grants ye a non-exclusive, worldwide, royalty-free
+patent license under the contributor's essential patent claims, to
+make, use, sell, offer fer sale, import an' otherwise run, modify an'
+propagate the contents o' its contributor version.
+ 
+  in the followin' three paragraphs, a "patent license" be any express
+agreement or commitment, 'owever denominated, not to enforce a patent
+(such as an express permission to practice a patent or covenant not to
+sue fer patent infringement). To "grant" such a patent license to a
+party means to make such an agreement or commitment not to enforce a
+patent against the party.
+ 
+  if ye convey a covered work, knowingly relyin' on a patent license,
+an' the correspondin' source o' the work be not available fer anyone
+to copy, free o' charge an' under the terms o' this here license, through a
+publicly available network server or other readily accessible means,
+then ye must either (1) cause the correspondin' source to be so
+available, or (2) arrange to deprive yerself o' the benefit o' the
+patent license fer this here particularrr work, or (3) arrange, in a manner
+consistent with the requirements o' this here license, to extend the patent
+license to downstream recipients. "knowingly relying" means ye 'ave
+actual knowledge that there, but fer the patent license, yer conveyin' the
+covered work in a country, or yer recipient's use o' the covered work
+in a country, would infringe one or more identifiable patents in that there
+country that there ye 'ave reason to believe be valid.
+ 
+  if, pursuant to or in connection with a single transaction or
+arrangement, ye convey, or propagate by procurin' conveyance o', a
+covered work, an' grant a patent license to some o' the parties
+receivin' the covered work authorizin' them to use, propagate, modify
+or convey a specific copy o' the covered work, then the patent license
+ye grant be automatically extended to all recipients o' the covered
+work an' works based on it.
+ 
+  a patent license be "discriminatory" if it does not include within
+the scope o' its coverage, prohibits the exercise o', or be
+conditioned on the non-exercise o' one or more o' the rights that there be
+specifically granted under this here license. Ye may not convey a covered
+work if ye be a party to an arrangement with a third party that there be
+in the business o' distributin' software, under which ye make payment
+to the third party based on the extent o' yer activity o' conveyin'
+the work, an' under which the third party grants, to any o' the
+parties who would receive the covered work from ye, a discriminatory
+patent license (a) in connection with copies o' the covered work
+conveyed by ye (or copies made from them copies), or (b) primarily
+fer an' in connection with specific products or compilations that there
+contain the covered work, unless ye entered into that there arrangement,
+or that there patent license been granted, prior to 28 march 2007.
+ 
+  nothin' in this here license shall be construed as excludin' or limitin'
+any implied license or other defenses to infringement that there may
+otherwise be available to ye under applicable patent law.
+ 
+  12. No surrender o' others' freedom.
+ 
+  if conditions be imposed on ye (whether by court order, agreement or
+otherwise) that there contradict the conditions o' this here license, they do not
+excuse ye from the conditions o' this here license. If ye cannot convey a
+covered work so as to satisfy simultaneously yer obligations under this here
+license an' any other pertinent obligations, then as a consequence ye may
+not convey it at all. Fer example, if ye agree to terms that there obligate ye
+to collect a royalty fer further conveyin' from them to whom ye convey
+the program, the only way ye could satisfy both them terms an' this here
+license would be to refrain entirely from conveyin' the program.
+ 
+  13. Use with the gnu affero general public license.
+ 
+  notwithstandin' any other provision o' this here license, ye 'ave
+permission to link or combine any covered work with a work licensed
+under version 3 o' the gnu affero general public license into a single
+combined work, an' to convey the resultin' work. The terms o' this here
+license will continue to apply to the part which be the covered work,
+but the special requirements o' the gnu affero general public license,
+section 13, concernin' interaction through a network will apply to the
+combination as such.
+ 
+  14. Revised versions o' this here license.
+ 
+  the free software foundation may publish revised an'/or new versions o'
+the gnu general public license from time to time. Such new versions will
+be similarrr in spirit to the present version, but may differ in detail to
+address new problems or concerns.
+ 
+  each version be given a distinguishin' version number. If the
+program specifies that there a certain numbered version o' the gnu general
+public license "or any later version" applies to it, ye 'ave the
+option o' followin' the terms an' conditions either o' that there numbered
+version or o' any later version published by the free software
+foundation. If the program does not specify a version number o' the
+gnu general public license, ye may choose any version e'er published
+by the free software foundation.
+ 
+  if the program specifies that there a proxy can decide which future
+versions o' the gnu general public license can be used, that there proxy's
+public statement o' acceptance o' a version permanently authorizes ye
+to choose that there version fer the program.
+ 
+  later license versions may give ye additional or different
+permissions. 'owever, no additional obligations be imposed on any
+author or copyright 'older as a result o' yer choosin' to follow a
+later version.
+ 
+  15. Disclaimer o' warranty.
+ 
+  there be no warranty fer the program, to the extent permitted by
+applicable law. Except when otherwise stated in writin' the copyright
+'olders an'/or other parties provide the program "as be" without warranty
+o' any kind, either expressed or implied, including, but not limited to,
+the implied warranties o' merchantability an' fitness fer a particularrr
+purpose. The entire risk as to the quality an' performance o' the program
+be with ye. Should the program prove defective, ye assume the cost o'
+all necessary servicing, repair or correction.
+ 
+  16. Limitation o' liability.
+ 
+  in no event unless required by applicable law or yay to in writin'
+will any copyright 'older, or any other party who modifies an'/or conveys
+the program as permitted above, be liable to ye fer damages, includin' any
+general, special, incidental or consequential damages arisin' out o' the
+use or inability to use the program (includin' but not limited to loss o'
+data or data bein' rendered inaccurate or losses sustained by ye or third
+parties or a failure o' the program to operate with any other programs),
+even if such 'older or other party been advised o' the possibility o'
+such damages.
+ 
+  17. Interpretation o' sections 15 an' 16.
+ 
+  if the disclaimer o' warranty an' limitation o' liability provided
+above cannot be given local legal effect accordin' to their terms,
+reviewin' courts shall apply local law that there most closely approximates
+an absolute waiver o' all civil liability in connection with the
+program, unless a warranty or assumption o' liability accompanies a
+copy o' the program in return fer a fee.
+ 
+                     end o' terms an' conditions
+
+            'ow to apply these terms to yer new programs
+
+  if ye develop a new program, an' ye want it to be o' the greatest
+possible use to the public, the best way to achieve this here be to make it
+free software which everyone can redistribute an' change under these terms.
+ 
+  to do so, attach the followin' notices to the program. It be safest
+to attach them to the start o' each source file to most effectively
+state the exclusion o' warranty; an' each file should 'ave at least
+the "copyright" line an' a pointer to where the full notice be found.
+ 
+    <one line to give the program's name an' a brief idea o' what it does.>
+    copyright (c) <year>  <name o' author>
+
+    this here program be free software: ye can redistribute it an'/or modify
+    it under the terms o' the gnu general public license as published by
+    the free software foundation, either version 3 o' the license, or
+    (at yer option) any later version.
+ 
+    this here program be distributed in the 'ope that there it be useful,
+    but without any warranty; without even the implied warranty o'
+    merchantability or fitness fer a particularrr purpose. See the
+    gnu general public license fer more details.
+ 
+    ye should 'ave received a copy o' the gnu general public license
+    along with this here program. If not, see <https://www.gnu.org/licenses/>.
+ 
+also add information on 'ow to contact ye by electronic an' paper mail.
+ 
+  if the program does terminal interaction, make it output a short
+notice like this here when it starts in an interactive mode:
+
+    <program>  copyright (c) <year>  <name o' author>
+    this here program comes with absolutely no warranty; fer details type `show w'.
+     this here be free software, an' ye be ye be welcome to redistribute it
+    under certain conditions; type `show c' fer details.
+ 
+the 'ypothetical commands `show w' an' `show c' should show the appropriate
+parts o' the general public license. O' course, yer program's commands
+might be different; fer a gui interface, ye would use an "about box".
+ 
+  ye should also get yer employer (if ye work as a programmer) or school,
+if any, to sign a "copyright disclaimer" fer the program, if necessary.
+ fer more information on this here, an' 'ow to apply an' follow the gnu gpl, see
+<https://www.gnu.org/licenses/>.
+ 
+  the gnu general public license does not permit incorporatin' yer program
+into proprietary programs. If yer program be a subroutine library, ye
+may consider it more useful to permit linkin' proprietary applications with
+the library. If this here be what ye want to do, use the gnu lesser general
+public license instead o' this here license. But first, please read
+<https://www.gnu.org/licenses/why-not-lgpl.'tml>.
