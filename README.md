@@ -1,4 +1,4 @@
-#Shootin' n' spinnin' game
+# Shootin' n' spinnin' game
 
 Made with Unity
 
